@@ -1,4 +1,4 @@
-# PimaIndiansDiabetes
+# Pima Indians Diabetes
 Logistic Regression on the Prima Indians Diabetes dataset
 A notebook for the Prima Indians Diabetes dataset.
 
